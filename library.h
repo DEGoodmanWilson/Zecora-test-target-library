@@ -1,0 +1,8 @@
+#ifndef ZECORA_TEST_TARGET_LIBRARY_LIBRARY_H
+#define ZECORA_TEST_TARGET_LIBRARY_LIBRARY_H
+
+#define VERSION "0.1.0"
+
+void hello();
+
+#endif
